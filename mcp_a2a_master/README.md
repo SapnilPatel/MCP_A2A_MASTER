@@ -1,0 +1,1 @@
+ Full Agentic AI project with MCP and A2A.
